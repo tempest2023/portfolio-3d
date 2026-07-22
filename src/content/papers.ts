@@ -10,7 +10,7 @@ export const papers = {
       status: "Accepted",
       summary:
         "Structure-aware code generation work that uses AST-guided diffs to make edits and synthesis more precise than flat text-only generation.",
-      href: "https://arxiv.org/abs/2508.01473",
+      href: "https://aclanthology.org/2026.surgellm-1.5/",
       featured: true,
     },
     {
@@ -56,7 +56,7 @@ export const papers = {
       venue: "ACL 2026 SURGeLLM Workshop",
       status: "已接收",
       summary: "用 AST 引导差分生成的结构化代码生成研究，重点是让代码编辑与生成比纯文本方法更精确、更可控。",
-      href: "https://arxiv.org/abs/2508.01473",
+      href: "https://aclanthology.org/2026.surgellm-1.5/",
       featured: true,
     },
     {
